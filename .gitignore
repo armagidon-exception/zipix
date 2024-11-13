@@ -1,0 +1,7 @@
+.cache/
+/bin/
+tests/units/
+tests/obj/
+tests/bin/
+/obj/
+compile_commands.json
